@@ -1,6 +1,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200)](https://github.com/kehakin)
 
-# Hi, I’m kehakinx <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I’m Kehinde Akinwande <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 📫 **Get in Touch**
 
