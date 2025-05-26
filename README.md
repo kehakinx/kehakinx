@@ -1,4 +1,4 @@
-dne<!-- Profile banner (optional, can host your own image or use a service like shields.io) -->
+<!-- Profile banner (optional, can host your own image or use a service like shields.io) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=kehakinx%20👋&fontSize=40&fontAlignY=35" alt="banner"/>
 </p>
@@ -9,18 +9,17 @@ dne<!-- Profile banner (optional, can host your own image or use a service like 
   <a href="https://github.com/kehakinx">
     <img src="https://img.shields.io/github/followers/kehakinx?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
-  <!-- Add more badges as needed -->
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: **[Your focus/project here]**
-- 🌱 I’m currently learning: **[Tech, language, or topic]**
-- 👯 I’m looking to collaborate on: **[Projects or ideas]**
-- 💬 Ask me about: **[Subjects you’re open to discuss/help with]**
-- 📫 How to reach me: **[Your email or social links]**
+- 🔭 I’m currently working on: **Building full-stack applications and automating data workflows**
+- 🌱 I’m currently learning: **Tableau, Advanced SQL, and Network Security**
+- 👯 I’m looking to collaborate on: **Open-source web applications and data-driven tools**
+- 💬 Ask me about: **Software development, SQL databases, or getting started in tech**
+- 📫 How to reach me: **kehinde.akinn@gmail.com or LinkedIn**
 
 ---
 
@@ -28,9 +27,17 @@ dne<!-- Profile banner (optional, can host your own image or use a service like 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <!-- Add more badges for other languages/tools -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ---
@@ -46,9 +53,8 @@ dne<!-- Profile banner (optional, can host your own image or use a service like 
 
 ### 🌱 Latest Projects
 
-- [Project 1](https://github.com/kehakinx/your-project-1): Short description.
-- [Project 2](https://github.com/kehakinx/your-project-2): Short description.
-<!-- List and link your best or favorite projects -->
+- [Game Database Application](https://github.com/kehakinx/Game-Nexus-Database): A full-stack web app built with HTML, JavaScript, and MySQL. It allows users to browse, filter, and manage video game data sourced from the Backloggd dataset. Includes dynamic content display and user profiles.
+- [Employee Management System](https://github.com/kehakinx/employee-management-system): A Java-based admin dashboard connected to a MySQL backend. Features secure login, CRUD operations, payroll calculations, and division/job title filtering using Spring Boot and JDBC.
 
 ---
 
@@ -56,14 +62,11 @@ dne<!-- Profile banner (optional, can host your own image or use a service like 
 
 <p align="left">
   <a href="mailto:kehinde.akinn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <!-- Add more social badges as needed -->
+  <a href="https://www.linkedin.com/in/kehindeakinwande"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- Fun fact, quote, or signature -->
 <p align="center">
-  <i>“Your favorite quote or fun fact here.”</i>
+  <i>“Build with purpose. Learn with passion.”</i>
 </p>
-
