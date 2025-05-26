@@ -1,4 +1,4 @@
-<!-- Profile banner (optional, can host your own image or use a service like shields.io) -->
+dne<!-- Profile banner (optional, can host your own image or use a service like shields.io) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=kehakinx%20👋&fontSize=40&fontAlignY=35" alt="banner"/>
 </p>
@@ -55,7 +55,7 @@
 ### 📫 Connect
 
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kehinde.akinn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <!-- Add more social badges as needed -->
 </p>
