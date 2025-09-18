@@ -52,9 +52,10 @@
 ---
 
 ### 🌱 Latest Projects
+- [Personal Closet Inventory] (https://github.com/kehakinx/Software_Dev_JNBK): A cross-platform app for users to catalog clothes, track wear frequency, and plan outfits. Utilized Flutter and Dart for responsive UI across iOS, Android, and modern web browsers and integrated Firebase Realtime Database, Authentication, and Storage for secure cloud backend. 
 
 - [Game Database Application](https://github.com/kehakinx/Game-Nexus-Database): A full-stack web app built with HTML, JavaScript, and MySQL. It allows users to browse, filter, and manage video game data sourced from the Backloggd dataset. Includes dynamic content display and user profiles.
-- [Employee Management System](https://github.com/kehakinx/employee-management-system): A Java-based admin dashboard connected to a MySQL backend. Features secure login, CRUD operations, payroll calculations, and division/job title filtering using Spring Boot and JDBC.
+
 
 ---
 
