@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=kehakinx%20👋&fontSize=40&fontAlignY=35" alt="banner"/>
 </p>
 
-<h2 align="center">Hi there, I'm kehakinx! 👋</h2>
+<h2 align="center">Hi there, I'm Kehinde Akinwande! 👋</h2>
 
 <p align="center">
   <a href="https://github.com/kehakinx">
